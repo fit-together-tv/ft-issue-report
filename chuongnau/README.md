@@ -2,6 +2,10 @@
 
 ## Changelog
 
+Landing page: https://hello.chuongnau.com
+
+App: https://app.chuongnau.com
+
 ### Late May - August 2
 
 - Add user detail fields (first name, last name, etc) that participants must complete before they are able to submit.
