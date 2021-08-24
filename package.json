@@ -1,0 +1,7 @@
+{
+  "name": "ft-issue-report",
+  "scripts": {
+    "test": "echo \"Hello world\""
+  },
+  "version": "1.0.0"
+}
